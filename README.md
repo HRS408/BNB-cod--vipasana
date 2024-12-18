@@ -9,7 +9,7 @@ Design
 Several solutions exist to address this challenge, such as crafting prompts to add document context. However, models often hallucinate when answering complex queries like, "Does the document sufficiently cover topic X to answer question Y?"
 To mitigate this, responses can be grounded in the document's context using a Retrieval-Augmented Generation (RAG) approach, significantly reducing the likelihood of inaccuracies.
 In this tutorial, we will demonstrate this process using a Google Colab notebook.
-here is the full code : 
+
 Prerequisites
 Proficiency in Python
 Familiarity with the Google Colab environment
@@ -195,8 +195,3 @@ Suggestions
 https://cloud.google.com/vertex-ai/generative-ai/docs/cookbook
 https://www.cloudskillsboost.google/paths/183
 
-Call to action
-To learn more about Google Cloud services and to create impact for the work you do, get around to these steps right away:
-Register for Code Vipassana sessions
-Join the meetup group Datapreneur Social
-Sign up to become Google Cloud Innovator
